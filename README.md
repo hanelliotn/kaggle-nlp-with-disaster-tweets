@@ -3,10 +3,14 @@
 [Competition URL](https://www.kaggle.com/competitions/nlp-getting-started)
 
 ## Development Status
-`IN PROGRESS`
+`COMPLETE`
 
 ## Results
-`IN PROGRESS`
+File: `datasets/submission.csv`
+
+Accuracy: 82.84%
+
+Training model: Sentence Transformers & SVM
 
 ## Last update
-*2023-07-06, 1:40:30 GMT*
+*2023-07-08, 1:40:14 GMT*
