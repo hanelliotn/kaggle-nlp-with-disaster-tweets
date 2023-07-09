@@ -1,6 +1,7 @@
 # [Kaggle] Natural Language Processing with Disaster Tweets
 
-[Competition URL](https://www.kaggle.com/competitions/nlp-getting-started)
+- [Competition URL](https://www.kaggle.com/competitions/nlp-getting-started)
+- [My Kaggle Notebook](https://www.kaggle.com/code/hanelliotn/nlp-with-disaster-tweets)
 
 ## Development Status
 `COMPLETE`
