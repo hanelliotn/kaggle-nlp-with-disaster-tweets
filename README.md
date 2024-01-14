@@ -4,7 +4,7 @@
 - [My Kaggle Notebook](https://www.kaggle.com/code/hanelliotn/nlp-with-disaster-tweets)
 
 ## Development Status
-`COMPLETE`
+`COMPLETED`
 
 ## Results
 File: `datasets/submission.csv`
